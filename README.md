@@ -9,7 +9,7 @@
 <hr>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=Stack-game&theme=highcontrast" height="110" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=Rubik&theme=highcontrast" height="110" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=HB-portfolio=highcontrast" height="110" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=HB-portfolio&theme=highcontrast" height="110" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=Monopoly-banking-&theme=highcontrast" height="110" />
   
   <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=&theme=synthwave" height="127" />

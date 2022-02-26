@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/TS-TypeScript-3178c6?style=for-the-badge&logo=TypeScript&labelColor=ffffff" />
   <img src="https://img.shields.io/badge/RS-RUST-ea4b00?style=for-the-badge&logo=Rust&labelColor=000000" />
 <hr>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=BytesBump&theme=synthwave" height="110" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=Stack-game&theme=synthwave" height="110" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=BytesBumpList&theme=synthwave" height="110" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=MadLibsPy&theme=synthwave" height="110" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HB-codin&repo=WolframAlpha.py&theme=synthwave" height="110" />
